@@ -2,7 +2,8 @@
 
 获得设备的唯一码IMEI（GSM手机）或MEID（CDMA手机）
 
-原网址：[http://aix.colintree.cn/down/IMEI][ori]
+原网址：http://aix.colintree.cn/down/IMEI  
+作者：ColinTree
 
 
 
@@ -10,7 +11,5 @@
  
 Get Device ID: IMEI (Phone with GSM)or MEID(Phone with CDMA)
 
-Original Web Page：[http://aix.colintree.cn/down/IMEI][ori]
-  
-  
-  [ori]: http://aix.colintree.cn/down/IMEI
+Original Web Page：http://aix.colintree.cn/down/IMEI  
+Author: ColinTree
